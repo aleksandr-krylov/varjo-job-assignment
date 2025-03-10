@@ -1,0 +1,17 @@
+name: devenv
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python>=3.12
+  - jupyter
+  - pandoc
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - pip

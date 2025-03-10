@@ -1,0 +1,233 @@
+ID,Left eye tracking error degrees,Right eye tracking error degrees,Age years,Inter pupillary distance mm,Gender,Eye colour,Skin tone,Ethnic background,Makeup,Dominant eye,Eyewear type,Eyewear lens type,Eyewear frame type,Eyewear frame thickness,Eyewear lens height,Eyewear coating anti-reflective,Eyewear coating anti-scratch,Eyewear coating anti-fog,Eyewear coating anti-UV,Eyewear coating anti-smudge,Eyewear coating blue-filter
+ID0501,1.0336015,0.870761,34,62.5,male,green,medium,Europe,no makeup,right,Eyeglasses,Single-vision,Semi-rimless,Narrow,Low,Yes,,,,,
+ID0502,0.8710975,0.973419,31,65.5,male,blue,dark,europe,no makeup,right,Eyeglasses,Single-vision,Full,Narrow,Normal,Yes,Yes,,,,
+ID0503,0.629953,1.26327,50,67,male,blue,light,Europe,no makeup,left,Eyeglasses,Single-vision,Rimless,No-frame,Low,Yes,Yes,,,,
+ID0504,1.66984,0.8617785,30,65,male,gray-green,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0505,0.443562,1.005823,36,57,female,blue,light,Europe,light eye makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0506,0.930897,0.579485,48,65.5,male,brown,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0507,0.5462565,0.640028,49,53,female,blue-gray,light,Europe,light eye makeup,left,Eyeglasses,Bifocals,Full,Medium,Normal,Yes,,,,,
+ID0508,1.768755,1.017667,45,62.5,male,green,light,Europe,no makeup,left,Eyeglasses,Single-vision,Full,Narrow,Normal,,,,Yes,,
+ID0510,1.169075,0.4944995,46,59.5,Female,blue,light,europe,light eye makeup,left,Eyeglasses,Bifocals,Full,Thick,High,Yes,Yes,,Yes,,Yes
+ID0511,0.554352,0.672042,27,63,female,blue-gray-green,light,europe,light eye makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0512,0.8486615,2.01415,18,63,male,blue-gray,light,europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0513,0.910397,1.38039,37,62,Female,green,light,europe,light eye makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0514,0.5433225,0.5429695,30,67,male,brown,medium,Horn & Sub-Saharan Africa,no makeup,right,Eyeglasses,Bifocals,Full,Thick,Normal,,,,,,Yes
+ID0515,1.02402,1.1044665,35,64.5,Male,black,medium,South Asia,no makeup,right,Eyeglasses,Single-vision,Semi-rimless,Narrow,Low,No,No,No,No,No,No
+ID0516,1.18838,1.0633715,35,63,female,dark brown,light,East Asia,no makeup,right,Contacts,Contacts,Contacts,Contacts,Contacts,No,No,No,No,No,No
+ID0517,1.070385,1.9493,37,68,Male,blue,light,Europe,no makeup,right,Contacts,Contacts,Contacts,Contacts,Contacts,No,No,No,No,No,No
+ID0518,0.654179,0.692353,24,69,male,green-brown,light,europe,no makeup,right,Eyeglasses,Single-vision,Full,Medium,High,,,,,,
+ID0519,0.695791,0.772081,35,69,Male,black,medium,South Asia,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0520,1.452325,0.872404,45,61,female,blue,light,europe,light eye makeup,right,Contacts,Contacts,Contacts,Contacts,Contacts,,,,,,
+ID0521,1.44206,0.947845,27,66.5,male,black,medium,South Asia,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0522,0.718461,0.9914105,45,70.5,Male,brown,medium,South Asia ,no makeup,right,Eyeglasses,Bifocals,Full,Medium,Normal,Yes,Yes,,Yes,,
+ID0523,0.9303235,1.136055,36,63,Female,blue-gray,light,europe,no makeup,left,Eyeglasses,Single-vision,Full,Narrow,Normal,No,No,No,No,No,No
+ID0524,0.9760575,1.0312025,49,69,male,blue,light,Europe,no makeup,right,Eyeglasses,Single-vision,Full,Narrow,Low,Yes,Yes,,,,
+ID0525,1.362635,1.63165,25,64.5,Male,Black,Medium,South Asia,No makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0527,0.455201,0.668609,44,64,Male,Brown,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0528,0.8937165,0.8766595,43,66.5,male,blue-gray,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0529,0.7591205,0.815897,36,57.5,female,blue,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0530,0.4546635,0.4209625,45,62,male,blue,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0531,0.9681405,1.09105,49,62.5,female,blue,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0532,1.05869,0.703365,32,64.5,female,brown,medium,South Asia ,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0533,2.46353,1.726105,29,64,female,brown,medium,East Asia,no makeup,left,Eyeglasses,Single-vision,Semi-rimless,Narrow,Low,,,,Yes,,
+ID0534,0.535119,0.6602495,28,66.5,male,brown,light,Middle-East,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0535,0.9496015,0.993634,22,63.5,Male,blue-green,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0536,0.5741425,0.8237295,29,63.5,male,grey,light,europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0537,1.550145,2.58217,40,66.5,female,brown,dark,Horn & Sub-Saharan Africa,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0538,0.7288145,0.7703425,33,64.5,male,blue-green,light,Europe,no makeup,left,Eyeglasses,Single-vision,Full,Thick,Normal,Yes,Yes,,,,
+ID0539,0.6584685,0.9493955,28,61,male,greengray,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0540,1.21334,1.25243,30,65.5,male,blue,light,europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0541,1.32227,1.58828,38,72.5,female,brown,medium,Horn & Sub-Saharan Africa,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0542,9.491375,3.91213,49,67.5,female,brown,light,Europe,no makeup,left,Eyeglasses,Bifocals,Full,Narrow,Low,Yes,Yes,Yes,,Yes,
+ID0543,1.08302,0.6510445,27,64.5,male,brown,medium,Horn & Sub-Saharan Africa,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0544,0.819673,5.477805,39,67,male,blue-green,light,Europe,no makeup,left,Eyeglasses,Single-vision,Full,Thick,Normal,,Yes,,,,
+ID0545,0.9292445,1.15578,28,67,male,dark brown,light,South Asia,no makeup,left,Eyeglasses,Single-vision,Full,Medium,Normal,No,No,No,No,No,No
+ID0546,1.0795,1.39589,40,61,female,black,light,South Asia ,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0547,0.407717,1.501085,45,64,male,blue-gray,light,europe,light eye makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0548,1.020725,0.722048,47,65.5,male,brown,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0549,1.35027,0.9238735,22,62.5,male,green/brown,light,Europe,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Normal,,,,,,
+ID0550,1.11848,1.18478,38,75,male,hazel brown,dark,Horn & Sub-Saharan Africa,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0551,0.544769,0.6371515,24,64,Male,blue,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0552,0.901811,4.650725,34,64.5,female,dark brown,medium,East Asia,no makeup,left,Eyeglasses,Single-vision,Full,Narrow,High,,,,,,Yes
+ID0553,1.574575,1.007775,24,62,male,blue,light,europe,no makeup,left,Eyeglasses,Single-vision,Full,Narrow,High,,Yes,,,,
+ID0554,0.571194,0.671937,26,60,male,green-brown,light,Europe,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Normal,Yes,Yes,,,,Yes
+ID0555,0.7409045,0.8172985,27,67.5,female,brown,dark,Horn & Sub-Saharan Africa,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0556,0.828245,0.91787,28,64,male,brown,light,Europe,no makeup,left,Eyeglasses,Single-vision,Semi-rimless,Narrow,Low,Yes,Yes,,,,
+ID0557,2.32419,1.50233,47,66.5,male,green,light,Middle-East,no makeup,right,Contacts,Contacts,Contacts,Contacts,Contacts,No,No,No,No,No,No
+ID0558,1.04622,0.749567,32,63,male,blue-gray,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0559,0.803504,1.01713,47,62.5,female,brown,light,Europe,no makeup,left,Eyeglasses,Bifocals,Full,Medium,Normal,,No,,,,
+ID0560,0.561326,1.23587,27,63.5,Male,brown,light,Europe,no makeup,right,Eyeglasses,Single-vision,Full,Thick,High,,,,,,
+ID0561,0.395924,0.430579,43,64.5,female,green,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0562,0.713914,0.659521,19,61,Female,blue-gray,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0563,0.94957,0.887381,29,66.5,male,greengray,light,Europe,No makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0564,0.672119,0.421344,26,61,male,dark brown,medium,North Africa,no makeup,right,Eyeglasses,Single-vision,Full,Thick,Normal,Yes,,,,,
+ID0565,2.94876,1.05707,40,73.5,male,dark brown,medium,South Asia,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Low,Yes,,,,,
+ID0566,0.974417,1.775,27,64.5,male,dark brown,medium,South Asia ,No makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0567,0.969177,1.31223,35,63,male,brown,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0569,1.49637,1.4238,36,60,male,green,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0570,0.666881,0.735566,35,63.5,Male,green,light,Europe,No makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0571,1.04994,0.593831,50,66.5,male,blue-green,light,Europe,no makeup,right,Eyeglasses,Bifocals,Full,Narrow,Low,,Yes,,,,
+ID0572,2.65448,1.11479,28,64,male,brown,light,europe,no makeup,left,Contacts,Contacts,Contacts,Contacts,Contacts,,,,,,
+ID0573,0.360193,0.751266,25,58,female,blue,light,Europe,light makeup,left,Eyeglasses,Bifocals,Full,Medium,Normal,,,,Yes,,
+ID0574,1.11615,0.920186,33,61.5,male,gray-green,light,Europe,no makeup,right,Eyeglasses,Single-vision,Semi-rimless,Narrow,Normal,No,No,No,No,No,No
+ID0575,1.4756,1.87319,25,65.5,male,black/dark brown,light,North Africa,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Normal,,,,,,
+ID0576,0.70223,1.12591,41,63.5,Female,blue,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0577,1.33383,0.780784,38,66.5,male,dark brown,dark,Horn & Sub-Saharan Africa,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0578,0.964,0.965113,18,65,male,blue,light,Europe,no makeup,left,Eyeglasses,Single-vision,Semi-rimless,Narrow,Low,Yes,Yes,,,,
+ID0579,1.011,6.39473,21,65.5,male,blue,light,Europe,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Normal,Yes,Yes,,,,
+ID0583,0.921566,1.21485,49,63,female,gray,light,Europe,light makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0584,0.800094,0.645615,26,65,male,brown,light,europe,no makeup,right,Eyeglasses,Single-vision,Full,Thick,Normal,Yes,,,,,
+ID0585,0.661269,0.857431,43,67.5,male,dark brown,medium,East Asia,no makeup,left,Eyeglasses,Single-vision,Full,Medium,Normal,,Yes,,,,
+ID0586,0.489205,0.681389,28,64.6,male,dark brown,light,South Asia ,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0587,1.72445,1.22416,41,59.5,male,brown,light,East Asia,no makeup,,Eyeglasses,Bifocals,Full,Medium,Normal,Yes,Yes,,Yes,Yes,
+ID0589,1.31847,1.98191,20,65.5,Male,grey,light,europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0591,0.588237,0.503064,45,59,male,dark grey,medium,South Asia,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0593,0.737642,0.855043,28,61,male,blue-green,light,Europe,no makeup,right,Contacts,Contacts,Contacts,Contacts,Contacts,,,,,,
+ID0601,0.9552345,0.688295,43,66,male,blue,light,europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0603,1.19362,1.870325,31,63.5,male,blue,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0604,1.30596,0.813918,36,64,male,green blue,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0605,0.5996545,0.8588675,30,65,female,blue,light,europe,light eye makeup,left,Eyeglasses,Single-vision,Full,Medium,Normal,Yes,,,,,
+ID0607,1.198525,0.992016,56,67,Male,Blue,Light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0608,2.8445,1.613945,32,63,female,green ,light,europe,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Low,,,,,Yes,
+ID0611,0.8884205,0.590853,44,63.5,male,blue,right,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0612,0.660756,0.6195865,52,74,male,green,light,Europe,no makeup,right,Eyeglasses,Bifocals,Full,Thick,Normal,Yes,Yes,,,,
+ID0613,0.7320485,0.456153,44,58,female,blue,right,Europe,light eye makeup,right,Contacts,Contacts,Contacts,Contacts,Contacts,,,,,,
+ID0614,1.23828,0.760111,45,66,Male,Grey,light,europe,No makeup,right,Eyeglasses,Single-vision,Full,Medium,Low,Yes,,,,,
+ID0615,0.6879005,0.587906,30,62,female,brown,light,Europe,light eye makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0616,0.6154565,0.5361995,20,67.5,female,brown,dark,Horn & Sub-Saharan Africa,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0617,0.479339,0.8380435,58,64.5,male,blue,light,Europe,no makeup,right,Eyeglasses,Trifocal,Semi-rimless,Medium,Normal,No,No,No,No,No,No
+ID0618,1.15648,0.8562115,30,61,female,green,light,europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0619,1.703965,0.5802285,59,68.5,male,blue,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0620,0.477689,1.189145,35,65,Male,Green,Light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0621,2.856835,0.9174265,34,64.5,male,brown,medium,Middle-East,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0622,0.695372,0.992171,37,66.5,Male,Blue,light,europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0623,0.7292055,1.25382,36,68,female,brown,light,Europe,no makeup,left,Contacts,Contacts,Contacts,Contacts,Contacts,,,,,,
+ID0625,0.6475665,0.705649,49,73,male,blue,light,Europe,no makeup,right,Contacts,Contacts,Contacts,Contacts,Contacts,,,,,,
+ID0626,0.5861235,1.0348935,44,57,Female,Blue,light,Europe,light eye makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0627,0.6465595,0.7020715,20,71,Male,brown,medium,Horn & Sub-Saharan Africa.,No makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0629,1.38682,1.095665,41,68,male,blue,light,Europe,no makeup,left,Eyeglasses,Single-vision,Full,Medium,High,,Yes,,,,
+ID0630,1.51864,0.5779635,47,63,male,blue,light,Europe,no makeup,right,Eyeglasses,Single-vision,Full,Narrow,Low,,Yes,,,,
+ID0631,0.5569395,0.4770875,47,63.5,female,blue,light,Europe,no makeup,right,Contacts,Contacts,Contacts,Contacts,Contacts,No,No,No,No,No,No
+ID0632,3.453305,2.06181,39,62.5,female,brown,dark,Horn & Sub-Saharan Africa,no makeup,right,Eyeglasses,Single-vision,Full,Thick,Normal,,Yes,,,,
+ID0633,1.604495,0.576698,26,63.5,male,brown,light,Middle-East,No makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0637,2.052885,1.60456,27,66,male,brown,medium,South Asia,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Normal,Yes,,,,,Yes
+ID0638,0.7763295,0.78242,41,62.5,female,blue,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0639,0.99208,2.08852,42,63,Male,Dark brown,medium,South Asia,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0640,0.4766035,0.959698,21,62.5,male,brown,dark,Horn & Sub-Saharan Africa,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0642,1.2237,1.739415,24,68.5,male,brown,dark,Horn & Sub-Saharan Africa,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0643,1.2534,1.521025,31,68,Male,Blue,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0644,0.884323,1.397165,37,61,female,green,light,Europe,light eye makeup,left,Eyeglasses,Single-vision,Full,Medium,Normal,Yes,Yes,,,,
+ID0645,1.127715,1.100545,53,64.5,Male,Brown,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0646,1.310365,1.09195,36,65,male,green,light,Europe,no makeup,right,Contacts,Contacts,Contacts,Contacts,Contacts,,,,,,
+ID0648,1.41356,1.16926,20,65,male,blue,light,Europe,no makeup,right,Contacts,Contacts,Contacts,Contacts,Contacts,,,,,,
+ID0649,1.0757605,1.353825,30,63,male,black,medium,South Asia,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0650,0.498046,0.438501,38,66.5,male,brown,light,East Asia,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0651,1.63334,0.937801,18,59.5,Female,Green,light,Europe,eyelash extensions,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0652,1.759745,1.1427475,57,71,male,Blue,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0653,1.299505,0.679017,32,62.5,Female,black,medium,south Asia,no makeup,right,Eyeglasses,Single-vision,Full,Thick,High,No,No,No,No,No,No
+ID0654,1.21112,1.19892,37,61.5,female,blue,light,Europe,light eye makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0655,1.32254,0.9833585,35,60,Female,black,medium,south Asia,light eye makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0656,2.83198,1.110775,26,62.5,male,black,medium,South Asia,no makeup,right,Eyeglasses,Single-vision,Rimless,No-frame,Normal,,,,,,
+ID0657,1.17962,0.806654,58,68,male,blue,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0658,2.256445,0.8019595,31,67.5,Male,Brown,light,East Asia,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Normal,,,,,,
+ID0659,1.013345,0.598779,49,61,female,green,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0660,0.6615,0.8746665,19,64,male,brown,light,South Asia,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0661,0.9342425,1.008805,32,63.5,female,dark brown,medium,south Asia,no makeup,right,Eyeglasses,Single-vision,Full,Medium,High,,,,,,Yes
+ID0663,1.44308,0.635366,33,65,male,blue-grey,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0664,0.417578,1.079535,59,65.5,male,blue,light,europe,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Normal,,,,,,
+ID0665,0.831584,0.620337,47,65.5,Male,Black,medium,East Asia,no makeup,right,Eyeglasses,Bifocals,Full,Medium,High,,Yes,,,,
+ID0666,1.240455,1.235375,38,68,male,blue,light,europe,no makeup,right,Eyeglasses,Single-vision,Full,Narrow,High,Yes,Yes,,,,
+ID0667,1.31998,2.47192,30,68.5,male,black,medium,south Asia,no makeup,left,Eyeglasses,Single-vision,Full,Medium,Normal,,,,,,Yes
+ID0668,0.9609365,0.8493635,57,62,female,blue,light,europe,light eye makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0669,4.256345,3.81178,34,65,male,green,light,europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0670,1.5378,2.50671,21,56.5,female,black,light,east Asia,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0671,2.01779,1.0565,33,69.5,Male,Dark grey,medium,South Asia,no makeup,right,Eyeglasses,Single-vision,Full,Thick,Normal,No,No,No,No,No,No
+ID0672,0.646067,1.03635,49,68,male,blue,light,europe,no makeup,left,Eyeglasses,Single-vision,Full,Thick,Low,Yes,Yes,,,,
+ID0673,0.938464,0.527983,37,67.5,female,brown,dark,Horn & Sub-Saharan Africa,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0674,1.01184,0.557729,34,60.5,male,green,light,europe,no makeup,right,Eyeglasses,Single-vision,Full,Narrow,High,,Yes,,,,
+ID0675,0.524874,0.581977,60,65.5,Female,green,light,Europe,light eye-makeup,right,Eyeglasses,Bifocals,Full,Medium,Normal,Yes,Yes,,,,
+ID0676,1.85072,1.47939,49,63.5,male,Blue/Grey,light,europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0677,0.905476,0.911935,30,63,male,brown,light,South Asia,no makeup,left,Eyeglasses,Single-vision,Full,Narrow,Normal,,,,,,Yes
+ID0678,0.839974,1.65855,53,59,female,Green,light,europe,no makeup,right,Eyeglasses,Bifocals,Full,Medium,Normal,Yes,Yes,,,,
+ID0679,0.77351,1.67465,59,62,male,blue,light,europe,no makeup,left,Eyeglasses,Bifocals,Full,Medium,Normal,Yes,,,,,
+ID0680,1.17601,1.08984,31,68,male,blue,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0681,0.756119,0.593664,40,63,male,blue-grey,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0683,1.32949,1.16191,32,65,male,green,light,Europe,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Normal,Yes,Yes,,,,
+ID0684,0.779799,1.09201,58,70,male,brown,light,europe,no makeup,left,Eyeglasses,Single-vision,Full,Medium,Low,,,,,,
+ID0685,0.893743,0.938401,49,65.5,male,blue,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0686,0.666241,2.2299,32,60.5,female,green,light,europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0687,0.756162,0.851446,28,69.5,female,brown,light,South Asia,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0688,0.962267,0.829447,44,72.5,male,blue-green,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0689,0.633485,0.584683,53,71,male,green,light,Europe,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Low,,,,,,
+ID0690,0.412952,0.571824,31,63.5,female,blue,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0691,0.815524,0.602389,42,64,male,green,light,europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0692,0.867101,1.69949,40,66.5,male,green,light,Europe,no makeup,right,Contacts,Contacts,Contacts,Contacts,Contacts,No,No,No,No,No,No
+ID0693,0.639539,1.31472,39,69.5,female,brown,light,East Asia,light eye-makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0695,0.826031,0.522431,56,66.5,male,blue-grey,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0697,0.941499,0.764808,50,66,male,Brown,light,europe,no makeup,right,Eyeglasses,Single-vision,Semi-rimless,Narrow,Low,,,,,,
+ID0699,1.11307,1.4801,23,66,Male,blue-green,light,Europe,no makeup,left,Eyeglasses,Single-vision,Full,Thick,Normal,No,No,No,No,No,No
+ID0701,2.73558,1.34931,25,63,female,brown,medium,south Asia,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0703,0.631071,0.942418,43,70,male,blue,light,europe,no makeup,left,Eyeglasses,Single-vision,Full,Narrow,Low,Yes,Yes,,,,
+ID0705,1.02974,1.32722,46,64.5,male,blue-green,light,Europe,no makeup,right,Eyeglasses,Single-vision,Full,Narrow,Low,Yes,,,,Yes,
+ID0801,1.770145,2.08805,35,69.5,male,green,light,Europe,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Low,,,,,,
+ID0802,0.9526905,0.8976155,37,68,male,green,light,Europe,no makeup,right,Eyeglasses,Single-vision,Full,Narrow,Normal,Yes,,,,,
+ID0804,0.7308575,1.0818,53,68.5,male,blue/green,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0805,1.298855,1.364755,36,64.5,male,brown,medium,South- Asia ,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0806,1.072665,0.782309,28,63,male,black,medium,South- Asia ,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Normal,Yes,,,,,
+ID0807,1.055518,0.7693685,28,60.5,female,brown,medium,South- Asia ,light eye-makeup,left,Eyeglasses,Single-vision,Full,Medium,Normal,,,,,,
+ID0808,0.453099,0.6715435,31,63.5,female,grey/green,Light,Europe,light eye-makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0809,0.6471675,0.9052885,28,66.5,male,brown,light,europe,no makeup,right,Eyeglasses,Single-vision,Full,Narrow,Normal,Yes,Yes,,,,Yes
+ID0810,0.6913625,0.555856,55,69.5,male,blue-green,light,europe,no makeup,right,Eyeglasses,Single-vision,Full,Narrow,Low,Yes,,,,,
+ID0811,1.097395,0.516776,59,69,male,green,light,europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0812,1.677495,1.094385,54,63,female,blue-gray,light,Europe,no makeup,left,Eyeglasses,Bifocals,Full,Narrow,Normal,No,No,No,No,No,No
+ID0813,0.978952,0.636987,59,62,female,blue,light,Europe,no makeup,left,Eyeglasses,Bifocals,Full,Medium,Normal,,,,,,
+ID0814,0.8921605,0.8670085,41,67.5,male,blue-gray,light,europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0815,1.00396,0.4802365,25,60.5,female,brown,light,East Asia,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Normal,No,No,No,No,No,No
+ID0816,0.539352,1.23452,23,65,male,green,Light,Europe,no makeup,left,Eyeglasses,Single-vision,Full,Narrow,Low,No,No,No,No,No,No
+ID0817,1.170255,0.951851,26,69,male,brown,light,South Asia,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0818,0.4917075,0.9608095,37,70,male,dark brown,medium,Middle-East,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0819,0.7603605,0.8661995,28,63.5,female,green/brown,light,Middle-East,light eye-makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0820,0.6922585,0.7034675,42,70,male,brown,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0841,0.69632,0.5234385,29,65,male ,blue,light,EUrope,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0843,0.7373765,0.953191,19,63.5,female,brown,medium,East Asia,light eye-makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0844,1.10903,1.22389,47,73,male,gray,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0901,0.6953375,1.02905,25,71,Male,Brown,Dark,Horn and Sub Saharan Africa,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0904,0.64544,0.827568,50,70.5,male,blue,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0905,0.729412,0.7516755,35,63,male,gray-blue,light,Europe,no makeup,left,Eyeglasses,Single-vision,Full,Narrow,Normal,Yes,Yes,,,,
+ID0906,1.29589,0.553244,25,63,female,gray-blue,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0907,0.743549,0.765244,38,61.5,male,gray-blue,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0908,1.046005,1.020634,42,62,male,brown,light,East Asia,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0909,0.929265,0.9223075,34,67.5,male,brown,light,Europe,no makeup,right,Eyeglasses,Single-vision,Rimless,No-frame,Normal,Yes,Yes,,Yes,,Yes
+ID0910,0.6208955,0.955267,24,65.5,male,black,medium,South Asia,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0911,0.869135,0.904986,21,65.5,female,greenish brown,light,Europe,no makeup,right,Contacts,Contacts,Contacts,Contacts,Contacts,No,No,No,No,No,No
+ID0912,1.380965,0.730701,58,68.5,male,blue-gray,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0913,1.220185,1.05162,31,63,female,greenish brown,light,europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0914,1.35244,1.94458,28,60,female,brown,light,Middle East,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Normal,No,No,No,No,No,No
+ID0915,0.7136225,0.627283,35,63,male,brown,medium,South Asia,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Low,Yes,,,,,Yes
+ID0916,0.8345545,0.7331185,26,64,male,green,light,Europe,no makeup,left,Eyeglasses,Single-vision,Full,Narrow,Low,,,,,,
+ID0917,0.6875745,0.6877705,37,65,male,blue,light,Europe,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Normal,No,No,No,No,No,No
+ID0918,2.499505,2.86583,20,67,male,brown,medium,Middle East,no makeup,right,Eyeglasses,Single-vision,Full,Narrow,Normal,Yes,,,,,
+ID0919,0.889376,0.7166905,30,61,Female,blue-green,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0920,0.5307105,0.7510105,23,66.5,Female,brown,medium,East Asia,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0921,0.767641,0.867451,24,65,female,black,dark,Horn & Sub-Saharan Africa,no makeup,right,Eyeglasses,Single-vision,Semi-rimless,Medium,Normal,No,No,No,No,No,No
+ID0922,0.3633995,0.539479,29,73.5,male,green,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0923,1.097775,1.390875,31,64.5,male,green,light,Europe,no makeup,left,Eyeglasses,Single-vision,Full,Narrow,Low,,,,,,Yes
+ID0924,0.775219,1.000751,55,63.5,female,gray-blue,light,Europe,eyelash extensions,Right,Eyeglasses,Bifocals,Full,Narrow,Normal,,Yes,,,,
+ID0925,1.17605,1.406455,18,67.5,male,blue,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0926,1.00952,2.92549,59,65,male,green,light,Europe,no makeup,right,Eyeglasses,Bifocals,Full,Medium,Normal,Yes,Yes,,,,
+ID0927,1.353695,1.24926,23,62.5,female,blue,light,Europe,eyelash extensions,right,Contacts,Contacts,Contacts,Contacts,Contacts,No,No,No,No,No,No
+ID0928,0.853325,0.631598,42,60,female,brown,light,Europe,light eye makeup,right,Contacts,Contacts,Contacts,Contacts,Contacts,No,No,No,No,No,No
+ID0929,0.6940625,0.4799755,36,67.5,male,yellow-green-brown,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0930,0.4933885,0.5636825,59,67,male,blue,light,Europe,no makeup,right,Eyeglasses,Bifocals,Semi-rimless,Narrow,Low,No,No,No,No,No,No
+ID0931,1.137555,0.945189,23,56.5,female,black,medium,South Asia,no makeup,right,Eyeglasses,Single-vision,Full,Medium,Normal,,,,,,
+ID0932,0.6803995,1.537005,29,68.5,male,brown,medium,South Asia,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0933,1.07402,0.49947,58,69.5,male,gray-blue,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0934,0.806678,1.06096,21,62.5,male,green,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0935,0.594924,0.863289,33,63,male,green,light,Europe,no makeup,left,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0936,0.9599055,0.9730225,40,61,female,gray-blue,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0937,1.61196,1.34589,56,76,male,brown,light,Europe,no makeup,right,Eyeglasses,Bifocals,Full,Narrow,Low,Yes,Yes,,,,
+ID0938,0.5846735,0.7178845,28,67,female,green,light,Europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0939,0.8423745,0.3931795,60,69.5,male,blue-gray,light,Europe,no makeup,right,Eyeglasses,Bifocals,Full,Medium,Normal,No,No,No,No,No,No
+ID0941,0.8462505,0.897451,34,70,male,brown,dark,Horn & Sub-Saharan Africa,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0942,0.7319795,0.7030875,44,63.5,male,blue-gray,light,europe,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear
+ID0943,1.524645,1.130185,41,76.5,male,brown,light,Horn & Sub-Saharan Africa,no makeup,right,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear,No-eyewear

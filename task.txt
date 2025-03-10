@@ -1,0 +1,7 @@
+You are given a table of raw data from a study on how the physical attributes of the eyes and eyewear of a person affect the tracking error in eye tracking.
+Implement a script in Python to process the data to assess the correlations between the attributes and the tracking error.
+Concentrate on the correlations that you think could be the most relevant for eye tracking development.
+In your presentation, discuss how likely the correlations are to be significant or spurious.
+Show your work, explain the processing steps in the report and via code comments.
+Return your report as a single PDF file.
+Attach the Python code as a separate archive, or ensure that all of it is visible in the PDF report.
